@@ -187,6 +187,16 @@ class Family {
     var members : [Person]
     
     init(members : [Person]) {
+        var over21 : Bool = false
+        for member in members {
+            if (member.age > 21) {
+                over21 = true
+            }
+        }
+        if (!over21) {
+            print("No member is over 21")
+            exit(1)
+        }
         self.members = members
     }
     
@@ -302,3 +312,5 @@ var familyTest = Family(members: [person1, person2, person3, person4])
 print(familyTest.householdIncome())
 familyTest.haveChild("babyf", lastName: "babyl")
 print(familyTest.members)
+var familyUnder = Family(members: [person1, person3]) // throws error
+
