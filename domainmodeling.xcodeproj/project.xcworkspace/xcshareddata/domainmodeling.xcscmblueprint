@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7D4D7B7A0412ADB1F2213C3173CC820DD99DDDAB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7D4D7B7A0412ADB1F2213C3173CC820DD99DDDAB" : 0,
+    "63D954815D9B28F61DD9852C9B74330359C3E7F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CAA5CDA6-E154-439C-AE94-9F9905440BD7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7D4D7B7A0412ADB1F2213C3173CC820DD99DDDAB" : "dommodel\/",
+    "63D954815D9B28F61DD9852C9B74330359C3E7F1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "domainmodeling",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "domainmodeling.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahnj12\/swiftcalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63D954815D9B28F61DD9852C9B74330359C3E7F1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahnj12\/dommodel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D4D7B7A0412ADB1F2213C3173CC820DD99DDDAB"
+    }
+  ]
+}
